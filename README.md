@@ -7,6 +7,18 @@ The project includes a **main detection system** and a **simulator** for testing
 
 ---
 
+```
+SentinelLite-Ransomware-Detection/
+├── src/
+│ └── SentinelLite.cpp 
+├── simulator/
+│ └── FileActivitySimulator.cpp 
+├── README.md
+
+```
+
+---
+
 ## Features
 
 - Real-time directory monitoring using Windows API

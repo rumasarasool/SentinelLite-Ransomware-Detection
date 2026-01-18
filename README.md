@@ -63,7 +63,7 @@ The `simulator` folder contains a **FileActivitySimulator**, which can generate 
 3. 3. Compile and run `SentinelLite.cpp`
 4. Perform file operations in the monitored folder to trigger alerts
 
-### Simulator (Optional)
+### Simulator 
 
 1. Compile `FileActivitySimulator.cpp` in Visual Studio
 2. Run the simulator to generate sample file events in the monitored folder

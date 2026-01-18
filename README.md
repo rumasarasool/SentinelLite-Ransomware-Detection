@@ -103,9 +103,9 @@ The `simulator` folder contains a **FileActivitySimulator**, which can generate 
 
 ---
 
-## Author
+## Support
+For issues or questions, please refer to the project documentation or contact the development team.
 
-Rumasa Rasool  
-Cybersecurity & Blue Team Enthusiast
+Note: This system is designed for presentation and demonstration purposes. For production use, additional security measures and testing are recommended.
 
 
